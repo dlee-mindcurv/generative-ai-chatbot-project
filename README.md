@@ -46,3 +46,7 @@ The chatbot uses the **2023 Fashion Trends** dataset to answer questions about s
 - pandas
 - numpy
 - tiktoken
+
+## Acknowledgements
+
+This project was built with assistance from [Claude Code](https://claude.ai/claude-code), Anthropic's CLI tool for AI-assisted software development.
